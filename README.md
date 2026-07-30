@@ -31,8 +31,9 @@ calculator/
 3. Open `index.html` in your browser or run it using Live Server in VS Code.
 
 ## Screenshot
+<img width="929" height="1283" alt="image" src="https://github.com/user-attachments/assets/7c26aca1-67b4-4afd-bfc5-c335e06cd469" />
 
-Paste your calculator screenshot here after uploading it to GitHub.
+
 
 ## Author
 
